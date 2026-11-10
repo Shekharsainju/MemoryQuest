@@ -19,4 +19,3 @@ Lesson completion is shared across subjects. Attempts and concept reviews are su
 ## Verification status
 
 The app built successfully for the iPhone 18 Pro simulator. An initial smoke check exercised onboarding, Home, tabs, lesson reading, and challenge gating. It found lesson formatting and bottom-navigation layout issues; fixes were applied and the app rebuilt successfully. The final smoke recheck and focused test execution are pending. Tests should not yet be considered verified passing.
-Testing my fork
